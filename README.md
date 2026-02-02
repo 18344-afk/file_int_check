@@ -1,5 +1,8 @@
 # File Integrity Checker
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![GUI](https://img.shields.io/badge/Interface-Tkinter-green?style=flat-square)
+
 A lightweight, Python-based GUI application designed to validate the integrity of your files. It monitors specific files for unauthorized changes, corruption, or deletion by comparing current SHA-256 hashes against a stored baseline.
 
 ## 📋 Features
